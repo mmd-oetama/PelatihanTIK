@@ -15,7 +15,7 @@
 }
 
 .kartu-profil img {
-  widht: 60px; 
-  height: 100px;
-  border-radius: 30%; /* ubah gambar persegi jadi melingkar*/
+  widht: 90px; 
+  height: 120px;
+  border-radius: 100%; /* ubah gambar persegi jadi melingkar*/
 }
