@@ -6,7 +6,7 @@
 
 .kartu-profil {
   widht:150px;
-  margin: 50px auto; /* jarak atas kanan, auto menengahkan kiri/kanan*/
+  margin: auto auto; /* jarak atas kanan, auto menengahkan kiri/kanan*/
   padding: 20px;
   background-color: #1a1a1a;
   border-radius: 30px /*membuat sudut melengkung*/
