@@ -5,11 +5,11 @@
 }
 
 .kartu-profil {
-  widht:200px;
+  widht:150px;
   margin: 50px auto; /* jarak atas kanan, auto menengahkan kiri/kanan*/
   padding: 20px;
   background-color: #1a1a1a;
-  border-radius: 15px /*membuat sudut melengkung*/
+  border-radius: 30px /*membuat sudut melengkung*/
   box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan*/
   text-align: center; /* menengahkan text */
 }
