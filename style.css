@@ -1,7 +1,14 @@
-body {
-  background-color: #FFE4C4; /* Bisque */
+ body {
+  background-color: #faf9f5; /* Bisque */
   font-family: Arial, sans-serif; /* Jenis Huruf */
   color: #000000; /*warna teks utama*/
 }
-  
+
+.kartu-profil {
+  widht:300px;
+  margin: 50px auto; /* jarak atas kanan, auto menengahkan kiri/kanan*/
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px /*membuat sudut melengkung*/
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan*/
   
