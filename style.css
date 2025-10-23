@@ -1,5 +1,5 @@
  body {
-  background-color: #1a1a1a; 
+  background-color: #2F4F4F; 
   font-family: Arial, sans-serif; /* Jenis Huruf */
   color: #9d9d9d; /*warna teks utama*/
 }
@@ -8,7 +8,7 @@
   widht:300px;
   margin: 50px auto; /* jarak atas kanan, auto menengahkan kiri/kanan*/
   padding: 20px;
-  background-color: #696969;
+  background-color: #1a1a1a;
   border-radius: 15px /*membuat sudut melengkung*/
   box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan*/
   text-align: center; /* menengahkan text */
